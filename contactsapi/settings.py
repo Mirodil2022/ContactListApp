@@ -43,7 +43,8 @@ INSTALLED_APPS = [
     'drf_yasg',
     'authentication',
     'contacts',
-    'corsheaders'
+    'corsheaders',
+    'django_heroku'
 ]
 
 SWAGGER_SETTINGS = {
